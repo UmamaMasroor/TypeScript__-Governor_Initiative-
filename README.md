@@ -10,3 +10,6 @@ npm init -y
  To compile code.....
 tsc (filename).ts
 node (filename).js 
+
+ASSIGNMENT 01 QUESTIONS
+https://github.com/panaverse/learn-typescript/blob/master/NODE_PROJECTS/getting-started-exercises.md
