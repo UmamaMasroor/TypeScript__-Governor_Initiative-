@@ -1,4 +1,4 @@
-# TypeScript__-Governor_Initiative-
+# TypeScript__-Governor_Initiative ( Module 1)-
 This is my repository of learning TypeScript in Governor Initiative IT Program by Miss Hina Naseer
 
 Downloads packages using following commands (Class 2)
