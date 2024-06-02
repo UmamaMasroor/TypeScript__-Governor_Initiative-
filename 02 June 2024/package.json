@@ -1,0 +1,23 @@
+{
+  "name": "02-june-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/main.js", 
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc", 
+    "start": "node main.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Umama",
+  "license": "ISC",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.13.0",
+    "typescript": "^5.0.0" 
+  }
+}
+
